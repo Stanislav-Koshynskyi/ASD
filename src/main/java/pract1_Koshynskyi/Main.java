@@ -1,6 +1,6 @@
-package lection1;
+package pract1_Koshynskyi;
 
-import static lection1.Animal.feed;
+import static pract1_Koshynskyi.Animal.feed;
 
 public class Main {
     public static void main(String[] args) {

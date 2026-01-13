@@ -1,4 +1,4 @@
-package lection1;
+package pract1_Koshynskyi;
 
 public class Cat extends Animal {
     private final String breed;

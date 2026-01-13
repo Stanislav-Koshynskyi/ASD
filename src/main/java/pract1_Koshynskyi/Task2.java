@@ -1,4 +1,4 @@
-package lection1;
+package pract1_Koshynskyi;
 
 public class Task2 {
     public static void main(String[] args) {

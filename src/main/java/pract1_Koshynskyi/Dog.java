@@ -1,4 +1,4 @@
-package lection1;
+package pract1_Koshynskyi;
 
 import java.util.Objects;
 
