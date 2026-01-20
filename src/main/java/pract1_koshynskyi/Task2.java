@@ -1,4 +1,4 @@
-package pract1_Koshynskyi;
+package pract1_koshynskyi;
 
 public class Task2 {
     public static void main(String[] args) {
