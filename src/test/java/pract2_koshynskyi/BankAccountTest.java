@@ -1,6 +1,5 @@
 package pract2_koshynskyi;
 
-import jdk.jshell.spi.SPIResolutionException;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
