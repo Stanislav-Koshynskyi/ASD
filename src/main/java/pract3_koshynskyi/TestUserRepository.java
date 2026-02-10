@@ -17,7 +17,7 @@ public class TestUserRepository {
         String email2 = "ww";
         System.out.println(userRepository.findByEmail(email2).orElseGet(() -> new User("Guest")));
 
-        System.out.println("Optional не слід використовувати в параметрах тому що це впливає не ефективність програми, бо перед кожним викликом методу доведеться обгортати параметри \n" +
+        System.out.println("Optional не слід використовувати в параметрахgit  тому що це впливає не ефективність програми, бо перед кожним викликом методу доведеться обгортати параметри \n" +
                 "Також якщо розробник розуміє що може прийти null, нічого не заважає зробити просто == null перевірку \n" +
                 "Також Optional в методах має проблему, що можуть прийти данні 3 станів (Optional.of(value),\n +" +
                 "Optional.empty() і null), що є незручно." +
