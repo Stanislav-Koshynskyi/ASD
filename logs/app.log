@@ -1,0 +1,8 @@
+2026-02-24 12:23:20.905 ERROR [main] practs_koshynskyi.pract7_koshynskyi.OrderService - Order processing failed, 2 - order id, as@as.as - user email
+2026-02-24 12:23:46.224 ERROR [main] practs_koshynskyi.pract7_koshynskyi.OrderService - Order processing failed, 2 - order id, as@as.as - user email
+2026-02-24 12:24:18.495 ERROR [main] practs_koshynskyi.pract7_koshynskyi.OrderService - Order processing failed, 2 - order id, as@as.as - user email
+2026-02-24 12:26:08.813 ERROR [main] practs_koshynskyi.pract7_koshynskyi.OrderService - Order processing failed, 2 - order id, as@as.as - user email
+2026-02-24 12:26:56.144 ERROR [main] practs_koshynskyi.pract7_koshynskyi.OrderService - Order processing failed, 2 - order id, as@as.as - user email
+2026-02-24 12:32:09.953 ERROR [main] practs_koshynskyi.pract7_koshynskyi.OrderService - Order processing failed, 2 - order id, as@as.as - user email
+2026-02-24 12:33:22.238 ERROR [main] practs_koshynskyi.pract7_koshynskyi.OrderService - Order processing failed, 2 - order id, as@as.as - user email
+2026-02-24 12:33:22.241 WARN  [main] practs_koshynskyi.pract7_koshynskyi.ReceiptWriter - something went wrong
